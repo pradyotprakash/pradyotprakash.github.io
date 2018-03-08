@@ -11,6 +11,5 @@ author_profile: true
     Created questions and evaluated students on assignments, exams and projects
 
 - ### Teaching Assistant for Data Structures, Algorithms, Intro to Computer Programming on edX and IITBombayX
-    Assisted with creating questions and tests for the participants of the courses
-    Answered doubts and queries on the online forum for the courses
+    Assisted with creating questions and tests for the participants of the courses and answered doubts and queries on the online forum for the courses
 
