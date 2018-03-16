@@ -1,6 +1,6 @@
 Quite often I read articles and papers where the authors use the phrase "*Trivial*". This post summarizes my frustation in more generality :P
 
-Shamelessly borrowed from <http://www.cs.northwestern.edu/~riesbeck/proofs.html>. A more complete list has been compiled [here](http://staffhome.ecm.uwa.edu.au/~00043886/humour/invalid.proofs.html). Also, [this](https://medium.com/@dieswaytoofast/common-proof-techniques-1fc9286d09ad) medium articles has a more pictoral representation.
+Shamelessly borrowed from <http://www.cs.northwestern.edu/~riesbeck/proofs.html>. A more complete list has been compiled [here](http://staffhome.ecm.uwa.edu.au/~00043886/humour/invalid.proofs.html). Also, [this](https://medium.com/@dieswaytoofast/common-proof-techniques-1fc9286d09ad) medium article has a more pictoral representation.
 
 **[Dana Angluin](https://cpsc.yale.edu/people/dana-angluin)'s List of Proof Techniques**
 
