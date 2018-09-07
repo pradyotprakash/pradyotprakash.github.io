@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-[pdf](/files/resume.pdf)
+pdf [here](/files/PradyotPrakashResume.pdf)

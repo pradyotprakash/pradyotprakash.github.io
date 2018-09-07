@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 ### me
-i am pradyot, a first year graduate student in the [computer sciences](http://cs.wisc.edu) department at uw-madison located in the beautiful city of madison (obviously!). i graduated with a bachelors in computer science and engineering after spending 4 lovely years as an undergrad at the indian institute of technology bombay.
+i am pradyot, a second year master's student in the [computer sciences](http://cs.wisc.edu) department at uw-madison located in the beautiful city of madison (obviously!). i graduated with a bachelors in computer science and engineering after spending 4 lovely years as an undergrad at the indian institute of technology bombay.
 
-i am currently assisting [prof. jason fletcher](https://ssc.wisc.edu/~jfletcher/Website/www/ "jason fletcher") as a research assistant. we use ml models to population datasets to make real-world predictive analysis and suggest policy changes. i have started working with [prof. rebecca willett](https://willett.ece.wisc.edu "rebecca willett") recently on the more theoretical aspects of ml.
+i spent the summer interning at facebook in their menlo park office. my work involved experimenting with the prediction models used within ads product ranking to improve the product placement on the feed. one of my models is currently in production and serving ads traffic globally.
 
-i love cooking (especially baking) and am struggling to learn ice skating.
+i am currently working with [prof. dimitris papailiopoulos](http://papail.io/) at the intersection of adversarial modeling and coding theory (and probably some reinforcement learning) towards my masters' thesis. i also assist [prof. jason fletcher](https://ssc.wisc.edu/~jfletcher/Website/www/ "jason fletcher") as a research assistant. we apply ml models to population datasets to make real-world predictive analysis and suggest policy changes. i worked with [prof. rebecca willett](https://voices.uchicago.edu/willett/) recently on the more theoretical aspects of ml.
+
+i love cooking (especially baking) and working out in my free time.
 
 ### interests
-machine learning, optimization
+machine learning, computer vision
 
