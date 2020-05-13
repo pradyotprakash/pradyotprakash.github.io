@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "hello! (world?)"
 title_separator          : "-"
 name                     : &name "prady prakash"
-description              : &description "grad student"
+description              : &description "software engineer"
 url                      : https://pradyotprakash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pradyotprakash/pradyotprakash.github.io"
@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "prady prakash"
-  avatar           : "profile.png"
-  bio              : "grad student @ uw-madison"
-  location         : "madison, wi"
-  employer         :
+  avatar           : "profile.jpg"
+  bio              : "software engineer"
+  location         : "mountain view, ca"
+  employer         : "facebook"
   googlescholar    : 
-  email            : "pradyot@cs.wisc.edu"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
