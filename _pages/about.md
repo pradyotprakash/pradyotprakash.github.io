@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### me
-i am pradyot, a machine learning engineer working on speech recognition at facebook. i work on making our assistant "portal" better at recognizing speech signals alongside improving video captioning.
+i am pradyot, a software engineer working on automated speech recognition at facebook. i work on making our assistant "portal" better at recognizing speech signals alongside improving facebook's video captioning.
 
 prior to this, i spent some amazing time in the beautiful city of madison, wisconsin working on my master's in computer science. i graduated with a bachelors in computer science and engineering after spending 4 lovely years as an undergrad at the indian institute of technology bombay.
 
