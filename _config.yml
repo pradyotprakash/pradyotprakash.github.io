@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "hello! (world?)"
 title_separator          : "-"
 name                     : &name "prady prakash"
-description              : &description "software engineer"
+description              : &description "machine learning engineer"
 url                      : https://pradyotprakash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pradyotprakash/pradyotprakash.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "prady prakash"
   avatar           : "profile.jpg"
-  bio              : "software engineer"
-  location         : "mountain view, ca"
-  employer         : "facebook"
+  bio              : "machine learning engineer"
+  location         : "california"
+  employer         : "meta"
   googlescholar    : 
   email            : 
   uri              :
@@ -90,7 +90,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "prakashpradyot"
+  facebook         : 
   foursquare       :
   github           : "pradyotprakash"
   google_plus      :
